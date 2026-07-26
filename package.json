@@ -1,0 +1,14 @@
+{
+  "name": "wedge-case-2",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "A tiny demo: handoff-ready is not approval, and approval is not authorization to deploy.",
+  "license": "MIT",
+  "scripts": {
+    "demo": "node demo.mjs",
+    "demo:approved": "node demo.mjs --approved",
+    "demo:authorized": "node demo.mjs --authorized",
+    "test": "node --test"
+  }
+}

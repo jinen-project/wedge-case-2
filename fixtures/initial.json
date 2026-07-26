@@ -1,0 +1,19 @@
+{
+  "release_id": "release-002",
+  "items": [
+    { "id": "build-artifact",   "state": "READY" },
+    { "id": "automated-tests",  "state": "READY" },
+    { "id": "rollback-plan",    "state": "READY" },
+    { "id": "license-check",    "state": "READY" },
+    { "id": "security-evidence","state": "AVAILABLE" }
+  ],
+  "approval": {
+    "state": "PENDING",
+    "routed_to": "release-approver",
+    "remaining_decision": "the approval decision stays with the release-approver, not this demo",
+    "evidence": null
+  },
+  "deployment": {
+    "authorization_evidence": null
+  }
+}
