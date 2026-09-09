@@ -160,6 +160,12 @@ This demo does not:
 
 Each case adds one boundary; it does not replace the earlier cases.
 
+## Respond with an observation
+
+If you run the demo, find a boundary case, or have a question about its stated limits, [open an issue](issues/new/choose). Include only public-safe material: what you tried, the conditions, what you observed, and what you expected.
+
+For related runnable specimens and field notes, visit the [Jinen Project public hub](https://github.com/jinen-project/jinen-project).
+
 ## License
 
 [MIT](LICENSE)
