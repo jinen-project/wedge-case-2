@@ -1,3 +1,9 @@
+Archived historical specimen.
+
+The current runnable public workflow demo is reliable-ai-workflow-demo.
+
+This repository remains available for provenance and can be reactivated if its specific specimen is needed.
+
 # Wedge Case 2
 
 > A zero-dependency Node.js demo that keeps handoff readiness, approval, and
